@@ -1,13 +1,10 @@
 import { useState } from 'react'
-import SearchBox from './componets/SearchBox'
-import InfoBox from './componets/InfoBox'
+import WeatherApp from './componets/WeatherApp'
 function App() {
 
   return (
     <>
-         
-       <SearchBox />
-       <InfoBox />
+         <WeatherApp />
     </>
   )
 }
