@@ -10,6 +10,7 @@ import image from "../assets/scatter_cloud.avif";
 
 function InfoBox({ weatherData }) {
   return (
+    <add />
     <div className="infoBox">
       <h2>weather info</h2>
       <div className="cardContainer">
